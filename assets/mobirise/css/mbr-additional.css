@@ -1438,6 +1438,52 @@ a {
 .cid-tp6eKwFLYD .mbr-section-subtitle {
   color: #05386b;
 }
+.cid-tpEVDnn4KH {
+  padding-top: 1rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpEVDnn4KH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpEVDnn4KH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpEVDnn4KH .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-tpEVDnn4KH .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-tpEVDnn4KH .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-tpEVDnn4KH .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-tpEVDnn4KH .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tpEVDnn4KH [class^="socicon-"]:before,
+.cid-tpEVDnn4KH [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-tp5jPKMhAE {
   display: flex;
   padding-top: 15px;
